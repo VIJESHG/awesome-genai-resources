@@ -1,5 +1,4 @@
-# Awesome Generative AI Resources 🎨🤖
-
+# Awesome Generative AI Resources 🎨🤖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 Welcome to Awesome Generative AI Resources!
 
 This repository is a curated collection of resources for learning, exploring, and contributing to the exciting world of Generative AI. Whether you're a beginner looking to understand the basics, an experienced practitioner searching for advanced models and research, or just curious about the real-world applications of GenAI—there's something here for everyone!
